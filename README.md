@@ -1,2 +1,1 @@
-# verilog
-verilog
+# Verilog
